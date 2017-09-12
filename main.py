@@ -1,7 +1,7 @@
 from utils import mssql, pyredis, mongodb
 
 '''
-mongo演示
+mongo演示 1
 '''
 mongodb.HOST = "192.168.158.130"
 mongodb.PORT = 27017
